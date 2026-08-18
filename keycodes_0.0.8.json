@@ -1291,7 +1291,7 @@
         "0x00B5": {
             "group": "media",
             "key": "KC_WWW_HOME",
-            "label": "Home",
+            "label": "WWW Home",
             "aliases": [
                 "KC_WHOM"
             ]
