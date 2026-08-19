@@ -880,7 +880,7 @@
         "0x007F": {
             "group": "basic",
             "key": "KC_KB_MUTE",
-            "label": "Mute"
+            "label": "KB Mute"
         },
         "0x0080": {
             "group": "basic",
