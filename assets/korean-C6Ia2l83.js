@@ -1,0 +1,1 @@
+var e=`korean`,t=`Korean`,n=[{hex:`0x0031`,key:`KR_WON`,label:`₩`,secondary:`|`},{hex:`0x0091`,key:`KR_HANJ`,label:`Hanja (한자)`},{hex:`0x0090`,key:`KR_HAEN`,label:`Han ↔ Yeong (한 ↔ 영)`}],r={id:e,label:t,keys:n};export{r as default,e as id,n as keys,t as label};
